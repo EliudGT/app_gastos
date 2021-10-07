@@ -1,15 +1,22 @@
 {
-  "name": "gastos_app",
+  "name": "app_lista_gastos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.3.0",
+    "date-fns": "^2.16.1",
+    "firebase": "^8.10.0",
+    "react": "^17.0.1",
+    "react-day-picker": "^7.4.8",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^0.2.4",
+    "webfontloader": "^1.6.28"
   },
   "scripts": {
     "start": "react-scripts start",
